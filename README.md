@@ -11,8 +11,7 @@ Email: 231b275@juetguna.in
 
 ### code
 
-#include<iostream>
-using namespace std;
-int main(){
-	cout<<"hello world";
-}
+a = eval(input())
+b=eval(input())
+print(a+b)
+
